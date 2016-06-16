@@ -4,7 +4,7 @@ _version: 1.0_
 
 ## Intro
 
-See the [blog post](http://www.cookingfor20.com/2013/06/18/hacker-school-soylent-recipe/) for photos and more information on this recipe, or the main [readme](https://github.com/zda/soylent/blob/master/README.md) for general information on soylent.
+See the [blog post](http://web.archive.org/web/20151108175005/http://www.cookingfor20.com/2013/06/18/hacker-school-soylent-recipe/) for photos and more information on this recipe, or the main [readme](https://github.com/zda/soylent/blob/master/README.md) for general information on soylent.
 
 ## Safety
 
